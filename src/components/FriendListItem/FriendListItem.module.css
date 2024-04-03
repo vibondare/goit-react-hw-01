@@ -1,0 +1,16 @@
+.status {
+    color: red;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.isOnline {
+    color: green;
+}
+
+.name {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    text-align: center;
+}

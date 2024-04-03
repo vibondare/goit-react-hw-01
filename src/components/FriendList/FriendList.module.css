@@ -1,0 +1,19 @@
+.FriendsList {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    margin-bottom: 48px;
+}
+
+.FriendsListItem {
+    border: #000 solid 2px;
+    border-radius: 16px;
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+}
